@@ -1,1 +1,1 @@
-# black-dit.github.io
+# balck-dit.github.io
