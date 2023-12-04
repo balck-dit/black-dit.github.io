@@ -1,2 +1,2 @@
-# balck-dit.github.io/index.html
+# balck-dit.github.io/
 
